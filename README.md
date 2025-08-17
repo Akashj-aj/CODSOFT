@@ -8,46 +8,44 @@ Each task focuses on building real-world applications using Python and Tkinter f
 ##  Tasks Overview  
 
 ### **Task 1: To-Do List**
-A simple GUI-based To-Do List application where users can:  
-- Add tasks  
-- Delete tasks  
-- Mark tasks as completed  
-- View all tasks in a clean interface  
+A simple command-line To-Do List application where users can:
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- View all tasks in a numbered list
 
-**Tech Used:** `Python`, `Tkinter`  
+**Tech Used:** `Python` 
 
 ---
 
 ### **Task 2: Calculator**
-A basic calculator with a graphical interface supporting:  
-- Addition, Subtraction, Multiplication, Division  
-- Clear & Reset functionality  
-- User-friendly button-based input  
+A basic calculator with a text-based interface supporting:
+- Addition, Subtraction, Multiplication, Division
+- User selects operation and inputs numbers
+- Handles division by zero and invalid choices
 
-**Tech Used:** `Python`, `Tkinter`  
+**Tech Used:** `Python` 
 
 ---
 
 ### **Task 3: Password Generator**
-A tool that generates strong, random passwords.  
-Features:  
-- User specifies password length  
-- Generates secure random password  
-- Copy-to-Clipboard option  
-- Simple and minimal UI  
+A password generator with a modern graphical interface:
+- User specifies password length
+- Generates secure random password
+- Copy-to-Clipboard option
 
-**Tech Used:** `Python`, `Tkinter`, `random`, `string`  
+**Tech Used:** `Python`, `Tkinter`, `random`, `string`
 
 ---
 
 ### **Task 4: Rock-Paper-Scissors Game**
-An interactive game where users play against the computer.  
-- User selects Rock, Paper, or Scissors  
-- Computer randomly chooses an option  
-- Displays result (Win/Lose/Tie)  
-- Result text color changes dynamically (Green for Win, Red for Lose, Blue for Tie)  
+An interactive game with a graphical interface:
+- User selects Rock, Paper, or Scissors
+- Computer randomly chooses an option
+- Displays result (Win/Lose/Tie)
+- Result text color changes dynamically (Green for Win, Red for Lose, Blue for Tie)
 
-**Tech Used:** `Python`, `Tkinter`, `random`  
+**Tech Used:** `Python`, `Tkinter`, `random`
 
 ---
 
