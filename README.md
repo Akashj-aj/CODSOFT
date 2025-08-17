@@ -1,6 +1,6 @@
 # CodSoft Python Internship Tasks  
 
-This repository contains 4 beginner-to-intermediate level Python projects developed as part of the **CodSoft Python Internship**.  
+This repository contains 4 Python projects developed as part of the **CodSoft Python Internship**.  
 Each task focuses on building real-world applications using Python and Tkinter for GUI.  
 
 ---
